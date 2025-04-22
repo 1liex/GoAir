@@ -1,19 +1,19 @@
 const cardsData = [
 
     {
-        img: "photos/Ksa/K-Cities/riyadh.jpg",
+        img: "/photos/Ksa/K-Cities/riyadh.jpg",
         title: "الرياض",
         desc: "الرِّيَاض هي عاصمة المملكة العربية السعودية، وأكبر مدنها وثالث أكبر عاصمة عربية من حيث عدد السكان",
         link: "#"
     },
     {
-        img: "photos/Ksa/K-Cities/jeddah.jpg",
+        img: "/photos/Ksa/K-Cities/jeddah.jpg",
         title: "جدة",
         desc: "مدينة جِدَّة (جُدَّة) هي مركز محافظة جدة إحدى محافظات منطقة مكة المكرمة، وتقع في غرب المملكة العربية السعودية على ساحل البحر الأحمر.",
         link: "#"
     },
     {
-        img: "photos/Ksa/K-Cities/makkah.jpg",
+        img: "/photos/Ksa/K-Cities/makkah.jpg",
         title: "مكة",
         desc: "مكَّة المُكرَّمَة هي المدينة الأقدس عند المسلمين، بها المسجد الحرام، والكعبة التي تعد قبلة المسلمين في صلاتهم",
         link: "#"
