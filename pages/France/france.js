@@ -1,22 +1,22 @@
 const cardsData = [
 
     {
-        img: "/photos/France/F-Hotels/b.jpg",
+        img: "photos/France/F-Hotels/b.jpg",
         title: "باريس",
         desc: "العاصمة وأشهر مدينة في فرنسا. معروفة ببرج إيفل، متحف اللوفر، وشانزليزيه.",
-        link: "/pages/France/Paris/Paris.html"
+        link: "pages/France/Paris/Paris.html"
     },
     {
-        img: "/photos/France/F-Hotels/n.jpg",
+        img: "photos/France/F-Hotels/n.jpg",
         title: "نيس",
         desc: "مدينة ساحلية جنوب فرنسا، تطل على البحر المتوسط. جوها هادي ومناسب للاسترخاء.",
-        link: "/pages/France/Nice/Nice.html"
+        link: "pages/France/Nice/Nice.html"
     },
     {
-        img: "/photos/France/F-Hotels/l.jpg",
+        img: "photos/France/F-Hotels/l.jpg",
         title: "ليون",
         desc: "مدينة تاريخية تشتهر بالمطاعم والمباني القديمة والأنهر.",
-        link: "/pages/France/Lony/Lony.html"
+        link: "pages/France/Lony/Lony.html"
     }
 ]
 

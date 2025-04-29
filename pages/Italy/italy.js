@@ -1,22 +1,22 @@
 const cardsData = [
 
     {
-        img: "/photos/Italy/I-cities/roma.jpg",
+        img: "photos/Italy/I-cities/roma.jpg",
         title: "روما",
         desc: "العاصمة، تحتضن معالم شهيرة مثل الكولوسيوم، الفاتيكان، ونافورة تريفي",
-        link: "/pages/Italy/Rome/Rome .html"
+        link: "pages/Italy/Rome/Rome .html"
     },
     {
-        img: "/photos/Italy/I-cities/fenesea.jpg",
+        img: "photos/Italy/I-cities/fenesea.jpg",
         title: "فينيسيا",
         desc: "مدينة رومانسية مبنية على الماء، تشتهر بالقنوات والجندول وساحة سان ماركو",
-        link: "/pages/Italy/Venice/Venice .html"
+        link: "pages/Italy/Venice/Venice .html"
     },
     {
-        img: "/photos/Italy/I-cities/flornsea.jpg",
+        img: "photos/Italy/I-cities/flornsea.jpg",
         title: "فلورنسيا",
         desc: "مهد عصر النهضة، تشتهر بأعمال مايكل أنجلو ومعرض أوفيزي",
-        link: "/pages/Italy/Florence/Florence.html"
+        link: "pages/Italy/Florence/Florence.html"
     }
 ]
 
