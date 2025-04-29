@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="Seoul.css" />
+  </head>
+  <body>
+    <div class="video-container">
+      <video autoplay muted loop class="hero-video">
+        <source src="photos/0419.mp4" type="video/mp4" />
+        متصفحك لا يدعم الفيديو.
+      </video>
+    </div>
+    <div class="border">
+      <img src="photos/logo.png" alt="" class="logo" />
+      <h1 dir="rtl" class="logo-title">مرحباً بكم في رِحال Go</h1>
+
+
+      <div class="product-card">
+        <div class="image-slider">
+          <img
+            src="photos/South Korean/So-hotel/so1.jpg"
+            class="slider-img active"
+            alt="صورة المنتج"
+          />
+          <img
+            src="photos/South Korean/So-hotel/so2.jpg"
+            class="slider-img"
+            alt="صورة المنتج"
+          />
+          <img
+            src="photos/South Korean/So-hotel/so3.jpg"
+            class="slider-img"
+            alt="صورة المنتج"
+          />
+          <button class="nav left" onclick="prevSlide()">&#10094;</button>
+          <button class="nav right" onclick="nextSlide()">&#10095;</button>
+        </div>
+
+        <div class="product-info">
+          <h2>The Shilla Seoul</h2> 
+          <p dir="rtl"><span style="font-size: 1.3em; color:  black;">الموقع :</span>  بجوار جبل نامسان وبرج سيؤول الشهير</p>
+          <p dir="rtl"><span style="font-size: 1.3em; color: black;">الوصف:</span>   فندق فاخر يقع في قلب سيؤول يتميز بتصميم أنيق وخدمات مميزة</p>
+          <p dir="rtl"><span style="font-size: 1.3em; color: black;">الأسعار:</span> يبدأ من حوالي 470 ريال سعودي لليلة في الغرفة العادية</p>
+        </div>
+      </div>
+    </div>
+    <script src="Seoul.js"></script>
+  </body>
+</html>

@@ -3,19 +3,19 @@ const cardsData = [
     img: "/photos/Spain/S-Cities/Barcelona.jpg",
     title: "برشلونة",
     desc: "برشلونة  مدينة على الساحل الشرقي لإسبانيا بين مصبي نهر الربرقاط ونهر بسوس.",
-    link: "#",
+    link: "/pages/Spain/Barcelona/Barcelona.html",
   },
   {
     img: "/photos/Spain/S-Cities/Madrid.jpg",
     title: "مدريد",
     desc: "مدريد هي عاصمة مملكة إسبانيا وأكبر مدنها يبلغ عدد السكان 3.2 مليون نسمة",
-    link: "#",
+    link: "/pages/Spain/Madrid/Madrid.html",
   },
   {
     img: "/photos/Spain/S-Cities/Granada.jpg",
     title: "غرناطة",
     desc: "تقع غرناطة على سفح جبال سييرا نيفادا، في التقاء ثلاثة أنهار: دارّو (Darro)، بيرّو (Beiro) والشنيل (Genil)،",
-    link: "#",
+    link: "/pages/Spain/Granada/Granada.html",
   },
 ];
 
