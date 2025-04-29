@@ -1,22 +1,22 @@
 const cardsData = [
 
     {
-        img: "photos/South Korean/So-cities/sol.jpg",
+        img: "../../photos/South Korean/So-cities/sol.jpg",
         title: "سيؤول",
         desc: " مدينة لا تنام، تجمع بين الماضي والمستقبل",
-        link: "pages/South Korean/Seoul/Seoul.html"
+        link: "../../pages/South Korean/Seoul/Seoul.html"
     },
     {
-        img: "photos/South Korean/So-cities/busan.jpg",
+        img: "../../photos/South Korean/So-cities/busan.jpg",
         title: "بوسان",
         desc: "لؤلؤة البحر والشواطئ",
-        link: "pages/South Korean/Busan/Busan.html"
+        link: "../../pages/South Korean/Busan/Busan.html"
     },
     {
-        img: "photos/South Korean/So-cities/gogo.jpg",
+        img: "../../photos/South Korean/So-cities/gogo.jpg",
         title: "جيجو",
         desc: "جزيرة السلام",
-        link: "pages/South Korean/Jeju/Jeju.html"
+        link: "../../pages/South Korean/Jeju/Jeju.html"
     }
 ]
 
